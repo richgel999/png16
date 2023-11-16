@@ -1,5 +1,8 @@
 # png16
-Compiled with Visual Studio 2022.
+Compiled with Visual Studio 2022. Working on cmake/Linux support.
+
+48-bit test images are here:
+https://github.com/richgel999/png16/tree/main/bin
 
 Lossless half float PNG support prototype, with built-in tone mapping. Note the FOURCC will be changed to "haLf". The images written by this code are currently for test purposes only.
 
